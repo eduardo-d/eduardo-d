@@ -2,6 +2,7 @@
 - Atualmente estudando Python e Java
 - Tenho interesse de trabalho em programação
 - Estou sempre disposto a aprender, algumas vão demorar mais outras menos!
+- Linkedin: https://www.linkedin.com/in/eduardo-drohomeretski-83b6971ab/
 
 <!--
 **eduardo-d/eduardo-d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
