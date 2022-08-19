@@ -1,4 +1,7 @@
-### Hi there 👋
+### Fala pessoal!!!
+- Atualmente estudando Python e Java
+- Tenho interesse de trabalho em programação
+- Estou disposto a aprender qualquer coisa, algumas vão demorar mais outras menos!
 
 <!--
 **eduardo-d/eduardo-d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
