@@ -1,7 +1,7 @@
 ### Fala pessoal!!!
 - Atualmente estudando Python e Java
 - Tenho interesse de trabalho em programação
-- Estou sempre disposto a aprender, algumas vão demorar mais outras menos!
+- Estou sempre disposto a aprender, algumas coisas vão demorar mais outras menos!
 - Linkedin: https://www.linkedin.com/in/eduardo-drohomeretski-83b6971ab/
 
 <!--
